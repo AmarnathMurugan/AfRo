@@ -7,6 +7,6 @@ Features:
 -GPS based mosquitone prone area detection  
 -notification of remind user to use FRO  
 
-   [![Click to watch video](https://image.ibb.co/fayvde/Screenshot_20180930_123703.png){:height="270px" width="540px"}](https://drive.google.com/file/d/1FubRqPaYP_O9Ffr2pXmGCZYfTkGbFtnx/view?usp=sharing)
+   [![Click to watch video](https://image.ibb.co/fayvde/Screenshot_20180930_123703.png)](https://drive.google.com/file/d/1FubRqPaYP_O9Ffr2pXmGCZYfTkGbFtnx/view?usp=sharing)
 
 
